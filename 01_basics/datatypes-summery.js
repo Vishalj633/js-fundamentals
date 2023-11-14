@@ -51,3 +51,9 @@ let myFunction = function () {
 };
 
 console.log(typeof myFunction); // Function/Object function
+
+
+// *************************************************************************
+
+// Stack (Primitive) -> We get a copy of original value
+// Heap (Non Primitive) -> We get reference fo original value
